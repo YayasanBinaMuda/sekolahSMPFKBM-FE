@@ -5,7 +5,7 @@ import { createRouter, createWebHistory } from 'vue-router';
 import axios from 'axios';
 
 //default base URL / EndPoint API
-axios.defaults.baseURL = "https://smpfkbinamuda.sch.id/sekolah";
+axios.defaults.baseURL = "https://smpfkbinamuda.sch.id/";
 
 //define a routes
 const routes = [
