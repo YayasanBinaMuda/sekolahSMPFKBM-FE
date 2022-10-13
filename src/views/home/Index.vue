@@ -208,7 +208,7 @@
   <script>
   //import component loader
   import {
-    ContentLoader,
+      ContentLoader,
       FacebookLoader,
       BulletListLoader,
   } from "vue-content-loader";
