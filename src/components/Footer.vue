@@ -7,11 +7,15 @@
             <div class="widget-title">
               <h3>About US</h3>
             </div>
-            <p> Integer rutrum ligula eu dignissim laoreet. Pellentesque venenatis nibh sed tellus faucibus bibendum. Sed fermentum est vitae rhoncus molestie. Cum sociis natoque penatibus et magnis dis montes.</p>
+            <p> Smp Fk Bina Muda 
+
+YAYASAN SOSIAL DAN PENDIDIKAN BINA MUDA
+Jl. Kapten Sangun No. 33 Kec. Cicalengka Kab. bandung
+TLP : (022) 7949415</p>
             <div class="footer-right">
               <ul class="footer-links-soi">
                 <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                <li><a href="#"><i class="fa fa-github"></i></a></li>
+                <li><a href="https://www.instagram.com/smp_fk_binamuda/?hl=id"><i class="fa fa-instagram"></i></a></li>
                 <li><a href="#"><i class="fa fa-twitter"></i></a></li>
                 <li><a href="#"><i class="fa fa-dribbble"></i></a></li>
                 <li><a href="#"><i class="fa fa-pinterest"></i></a></li>
@@ -42,10 +46,10 @@
             </div>
 
             <ul class="footer-links">
-              <li><a href="mailto:#">info@yoursite.com</a></li>
-              <li><a href="#">www.yoursite.com</a></li>
-              <li>PO Box 16122 Collins Street West Victoria 8007 Australia</li>
-              <li>+61 3 8376 6284</li>
+              <li><a href="mailto:#">info@binamuda.org</a></li>
+              <li><a href="#">www.binamuda.org</a></li>
+              <li> Jln Kapten Sangun No. 33 Cicalengka, Tenjolaya, Kec. Cicalengka, Kab. Bandung Prov. Jawa Barat</li>
+              <li>(022) 7949415</li>
             </ul><!-- end links -->
           </div><!-- end clearfix -->
         </div><!-- end col -->
